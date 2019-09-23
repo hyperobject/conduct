@@ -29,7 +29,7 @@ Harassment includes:
 * Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other XOXO community members or other vulnerable people from intentional abuse
 * Publication of non-harassing private communication without consent by the involved parties
 
-keybasefolx prioritizes marginalized people’s safety over privileged people’s comfort. XOXO reserves the right not to act on complaints regarding:
+keybasefolx prioritizes marginalized people’s safety over privileged people’s comfort. keybasefolx reserves the right not to act on complaints regarding:
 
 * ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’
 * Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
