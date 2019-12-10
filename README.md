@@ -1,6 +1,6 @@
 # Code of Conduct
 
-**This policy is a "living" document, and subject to refinement and expansion in the future. Last updated May 14, 2019. Based on the XOXO Community Code of Conduct**
+**This policy is a "living" document, and subject to refinement and expansion in the future. Last updated December 10, 2019. Based on the XOXO Community Code of Conduct**
 
 Everyone participating in the keybasefolx community is required to agree to the following Code of Conduct.
 
@@ -45,9 +45,9 @@ If a participant engages in harassing behavior, keybasefolx may take any action 
 ## Reporting and Enforcement
 If you are being harassed by a member of the keybasefolx community, notice that someone else is being harassed, or have any other concerns, please contact us immediately via keybase at [@01](https://keybase.io/01).
 
-### Slack
+### Keybase Chat
 
-Please contact an admin or moderator (found in the  via direct message.
+Please contact an admin (found on the keybasefolx team page) via direct message.
 
 If the person who is harassing you is a member of staff, they will recuse themselves from handling your incident. 
 
